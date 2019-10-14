@@ -70,7 +70,7 @@ tboy.pendown()
 tboy.write("Internet Explorer", False, align="left" ,font=("Courier New", 10, "normal"))
 
 tboy.penup()
-tboy.goto(-69, 15) # Moves to draw Unknown error text
+tboy.goto(-69, 15) # Moves to draw Unknown Error text
 tboy.pendown()
 
 tboy.write("Unknown error", False, align="left" ,font=("Courier New", 10, "normal"))
